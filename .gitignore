@@ -22,5 +22,8 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< HEAD
 .idea/
 Unit 4 - Arrays-and-ArrayList/target/
+=======
+>>>>>>> 1700cd607a0f8dd3974589604dc1c5e69f303383
